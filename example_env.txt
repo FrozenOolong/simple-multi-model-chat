@@ -1,0 +1,5 @@
+# Create a .env file with the following content & update the api key
+ANTHROPIC_API_KEY='your_api_key'
+OPENAI_API_KEY='your_api_key'
+DEEPSEEK_API_KEY='your_api_key'
+GEMINI_API_KEY='your_api_key'
